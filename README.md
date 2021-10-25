@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arraniri46, based in Medan, Sumatera Utara
-- 👀 I’m interested in ML and Fullstack Dev
+- 👀 I’m interested in ML and Javascript Stack
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
