@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @arraniri46, based in Medan, Sumatera Utara
-- 👀 I’m interested in ML and Javascript Stack
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me:
+- 👀 I’m interested ML and DevOps
+- 🌱 I’m currently learning backend tech and devops
+
+📫 How to reach me:
 - LinkedIn : https://www.linkedin.com/in/garda-ar-51a72686/
 - Instagram : @arraniri46
 
